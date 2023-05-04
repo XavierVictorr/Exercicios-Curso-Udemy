@@ -1,0 +1,15 @@
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Problema\Problema\bin\Debug\net6.0\menor de tres.exe
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Problema\Problema\bin\Debug\net6.0\menor de tres.deps.json
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Problema\Problema\bin\Debug\net6.0\menor de tres.runtimeconfig.json
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Problema\Problema\bin\Debug\net6.0\menor de tres.dll
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Problema\Problema\bin\Debug\net6.0\menor de tres.pdb
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Problema\Problema\obj\Debug\net6.0\menor de tres.csproj.AssemblyReference.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Problema\Problema\obj\Debug\net6.0\menor de tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Problema\Problema\obj\Debug\net6.0\menor de tres.AssemblyInfoInputs.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Problema\Problema\obj\Debug\net6.0\menor de tres.AssemblyInfo.cs
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Problema\Problema\obj\Debug\net6.0\menor de tres.csproj.CoreCompileInputs.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Problema\Problema\obj\Debug\net6.0\menor de tres.dll
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Problema\Problema\obj\Debug\net6.0\refint\menor de tres.dll
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Problema\Problema\obj\Debug\net6.0\menor de tres.pdb
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Problema\Problema\obj\Debug\net6.0\menor de tres.genruntimeconfig.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Problema\Problema\obj\Debug\net6.0\ref\menor de tres.dll

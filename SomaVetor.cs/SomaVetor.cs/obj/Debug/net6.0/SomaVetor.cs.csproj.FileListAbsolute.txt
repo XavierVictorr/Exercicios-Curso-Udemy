@@ -1,0 +1,15 @@
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaVetor.cs\SomaVetor.cs\bin\Debug\net6.0\SomaVetor.cs.exe
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaVetor.cs\SomaVetor.cs\bin\Debug\net6.0\SomaVetor.cs.deps.json
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaVetor.cs\SomaVetor.cs\bin\Debug\net6.0\SomaVetor.cs.runtimeconfig.json
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaVetor.cs\SomaVetor.cs\bin\Debug\net6.0\SomaVetor.cs.dll
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaVetor.cs\SomaVetor.cs\bin\Debug\net6.0\SomaVetor.cs.pdb
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaVetor.cs\SomaVetor.cs\obj\Debug\net6.0\SomaVetor.cs.csproj.AssemblyReference.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaVetor.cs\SomaVetor.cs\obj\Debug\net6.0\SomaVetor.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaVetor.cs\SomaVetor.cs\obj\Debug\net6.0\SomaVetor.cs.AssemblyInfoInputs.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaVetor.cs\SomaVetor.cs\obj\Debug\net6.0\SomaVetor.cs.AssemblyInfo.cs
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaVetor.cs\SomaVetor.cs\obj\Debug\net6.0\SomaVetor.cs.csproj.CoreCompileInputs.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaVetor.cs\SomaVetor.cs\obj\Debug\net6.0\SomaVetor.cs.dll
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaVetor.cs\SomaVetor.cs\obj\Debug\net6.0\refint\SomaVetor.cs.dll
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaVetor.cs\SomaVetor.cs\obj\Debug\net6.0\SomaVetor.cs.pdb
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaVetor.cs\SomaVetor.cs\obj\Debug\net6.0\SomaVetor.cs.genruntimeconfig.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaVetor.cs\SomaVetor.cs\obj\Debug\net6.0\ref\SomaVetor.cs.dll

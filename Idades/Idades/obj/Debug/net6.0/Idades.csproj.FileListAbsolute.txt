@@ -1,0 +1,15 @@
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Idades\Idades\bin\Debug\net6.0\Idades.exe
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Idades\Idades\bin\Debug\net6.0\Idades.deps.json
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Idades\Idades\bin\Debug\net6.0\Idades.runtimeconfig.json
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Idades\Idades\bin\Debug\net6.0\Idades.dll
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Idades\Idades\bin\Debug\net6.0\Idades.pdb
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Idades\Idades\obj\Debug\net6.0\Idades.csproj.AssemblyReference.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Idades\Idades\obj\Debug\net6.0\Idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Idades\Idades\obj\Debug\net6.0\Idades.AssemblyInfoInputs.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Idades\Idades\obj\Debug\net6.0\Idades.AssemblyInfo.cs
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Idades\Idades\obj\Debug\net6.0\Idades.csproj.CoreCompileInputs.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Idades\Idades\obj\Debug\net6.0\Idades.dll
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Idades\Idades\obj\Debug\net6.0\refint\Idades.dll
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Idades\Idades\obj\Debug\net6.0\Idades.pdb
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Idades\Idades\obj\Debug\net6.0\Idades.genruntimeconfig.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Idades\Idades\obj\Debug\net6.0\ref\Idades.dll

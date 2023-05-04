@@ -1,0 +1,15 @@
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Crescente\Crescente\bin\Debug\net6.0\Crescente.exe
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Crescente\Crescente\bin\Debug\net6.0\Crescente.deps.json
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Crescente\Crescente\bin\Debug\net6.0\Crescente.runtimeconfig.json
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Crescente\Crescente\bin\Debug\net6.0\Crescente.dll
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Crescente\Crescente\bin\Debug\net6.0\Crescente.pdb
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Crescente\Crescente\obj\Debug\net6.0\Crescente.csproj.AssemblyReference.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Crescente\Crescente\obj\Debug\net6.0\Crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Crescente\Crescente\obj\Debug\net6.0\Crescente.AssemblyInfoInputs.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Crescente\Crescente\obj\Debug\net6.0\Crescente.AssemblyInfo.cs
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Crescente\Crescente\obj\Debug\net6.0\Crescente.csproj.CoreCompileInputs.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Crescente\Crescente\obj\Debug\net6.0\Crescente.dll
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Crescente\Crescente\obj\Debug\net6.0\refint\Crescente.dll
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Crescente\Crescente\obj\Debug\net6.0\Crescente.pdb
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Crescente\Crescente\obj\Debug\net6.0\Crescente.genruntimeconfig.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\Crescente\Crescente\obj\Debug\net6.0\ref\Crescente.dll

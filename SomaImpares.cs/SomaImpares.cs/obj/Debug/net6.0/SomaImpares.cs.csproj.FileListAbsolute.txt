@@ -1,0 +1,15 @@
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaImpares.cs\SomaImpares.cs\bin\Debug\net6.0\SomaImpares.cs.exe
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaImpares.cs\SomaImpares.cs\bin\Debug\net6.0\SomaImpares.cs.deps.json
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaImpares.cs\SomaImpares.cs\bin\Debug\net6.0\SomaImpares.cs.runtimeconfig.json
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaImpares.cs\SomaImpares.cs\bin\Debug\net6.0\SomaImpares.cs.dll
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaImpares.cs\SomaImpares.cs\bin\Debug\net6.0\SomaImpares.cs.pdb
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaImpares.cs\SomaImpares.cs\obj\Debug\net6.0\SomaImpares.cs.csproj.AssemblyReference.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaImpares.cs\SomaImpares.cs\obj\Debug\net6.0\SomaImpares.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaImpares.cs\SomaImpares.cs\obj\Debug\net6.0\SomaImpares.cs.AssemblyInfoInputs.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaImpares.cs\SomaImpares.cs\obj\Debug\net6.0\SomaImpares.cs.AssemblyInfo.cs
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaImpares.cs\SomaImpares.cs\obj\Debug\net6.0\SomaImpares.cs.csproj.CoreCompileInputs.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaImpares.cs\SomaImpares.cs\obj\Debug\net6.0\SomaImpares.cs.dll
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaImpares.cs\SomaImpares.cs\obj\Debug\net6.0\refint\SomaImpares.cs.dll
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaImpares.cs\SomaImpares.cs\obj\Debug\net6.0\SomaImpares.cs.pdb
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaImpares.cs\SomaImpares.cs\obj\Debug\net6.0\SomaImpares.cs.genruntimeconfig.cache
+C:\Users\VictorXavierActiveCl\OneDrive - Active Cloud Solutions\Área de Trabalho\resumos\RESUMOS LINGUAGEM C#\SomaImpares.cs\SomaImpares.cs\obj\Debug\net6.0\ref\SomaImpares.cs.dll
